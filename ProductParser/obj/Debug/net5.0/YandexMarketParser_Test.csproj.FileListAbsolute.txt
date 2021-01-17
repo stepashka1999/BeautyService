@@ -1,0 +1,16 @@
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\bin\Debug\net5.0\YandexMarketParser_Test.exe
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\bin\Debug\net5.0\YandexMarketParser_Test.deps.json
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\bin\Debug\net5.0\YandexMarketParser_Test.runtimeconfig.json
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\bin\Debug\net5.0\YandexMarketParser_Test.runtimeconfig.dev.json
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\bin\Debug\net5.0\YandexMarketParser_Test.dll
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\bin\Debug\net5.0\YandexMarketParser_Test.pdb
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.csprojAssemblyReference.cache
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.AssemblyInfo.cs
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.dll
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.pdb
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.genruntimeconfig.cache
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\bin\Debug\net5.0\AngleSharp.dll
+D:\Visual Studio Projects\YandexMarketParser\YandexMarketParser_Test\obj\Debug\net5.0\YandexMarketParser_Test.csproj.CopyComplete
