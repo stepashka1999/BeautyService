@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p/3Yh0SeGG1Tk10owUsKlFjF4Yt4ajIbnKduHNtxFalk8o9bsYgzcif7NiSa0jiTf6XIXQGqYywXsA1YHQ+gow==",
+  "dgSpecHash": "wSqkvtRvaOxjjifjvBI9DAczTMPzyIiLTDfuZ1MbWsceToaOJJikBhy+9pNao+u8K4iIENlCIU/UpkSLNwPwnA==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Projects\\ProductHelperSite\\ButyService\\ButyService.csproj",
+  "projectFilePath": "D:\\Visual Studio Projects\\ProductHelperSite\\BeautyService\\BeautyService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stepa\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.0-preview.8.20414.8\\microsoft.aspnetcore.mvc.razor.extensions.5.0.0-preview.8.20414.8.nupkg.sha512",
     "C:\\Users\\stepa\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.0-preview.8.20414.8\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.0-preview.8.20414.8.nupkg.sha512",

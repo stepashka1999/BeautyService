@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projects\\ProductHelperSite\\ButyService\\ButyService.csproj": {}
+    "D:\\Visual Studio Projects\\ProductHelperSite\\BeautyService\\BeautyService.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projects\\ProductHelperSite\\ButyService\\ButyService.csproj": {
+    "D:\\Visual Studio Projects\\ProductHelperSite\\BeautyService\\BeautyService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projects\\ProductHelperSite\\ButyService\\ButyService.csproj",
-        "projectName": "ButyService",
-        "projectPath": "D:\\Visual Studio Projects\\ProductHelperSite\\ButyService\\ButyService.csproj",
+        "projectUniqueName": "D:\\Visual Studio Projects\\ProductHelperSite\\BeautyService\\BeautyService.csproj",
+        "projectName": "BeautyService",
+        "projectPath": "D:\\Visual Studio Projects\\ProductHelperSite\\BeautyService\\BeautyService.csproj",
         "packagesPath": "C:\\Users\\stepa\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Projects\\ProductHelperSite\\ButyService\\obj\\",
+        "outputPath": "D:\\Visual Studio Projects\\ProductHelperSite\\BeautyService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
